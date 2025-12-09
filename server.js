@@ -33,5 +33,3 @@ app.get("/api/data", async (req, res) => {
 export default app;
 
 console.log("Connected URL:", process.env.DATABASE_URL);
-
-https://github.com/13winda/vendor-c.git
